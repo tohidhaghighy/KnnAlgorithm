@@ -1,5 +1,5 @@
 # KnnAlgorithm
-Knn Algorithm in mashin learning for classify data
+Knn Algorithm in machine learning for classify data
 
 # K-nearest Neighbors Algorithm
 
